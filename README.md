@@ -1,4 +1,4 @@
-# Task-5-Data-cleaning.# Task 5 – Data Cleaning Using Pandas
+#Task 5 – Data Cleaning Using Pandas
 
 ## 📌 Objective
 The objective of this task is to perform basic data cleaning using Python and Pandas.
@@ -29,11 +29,11 @@ and creating new features for better analysis.
 ## 📁 Files Included
 - `Task5_Cleaning.ipynb` – Jupyter notebook with code and explanations
 - `cleaned_data.csv` – Cleaned output dataset
-- `titanic.csv` – Original dataset (if allowed)
+- `titanic.csv` – Original dataset
 
 ## ✅ Outcome
 This task demonstrates how Python and Pandas can efficiently replace
 manual data cleaning processes in Excel, especially for large datasets.
 
 ## 👤 Author
-- *Your Name*
+- Srinivas k
